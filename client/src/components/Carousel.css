@@ -1,0 +1,14 @@
+.carousel-item img {
+    height: 500px; /* Adjust height to fit your design */
+    object-fit: cover;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Darken the controls */
+    border-radius: 50%; /* Make controls circular */
+}
+
+.carousel-indicators li {
+    background-color: #333; /* Change the color of the indicators */
+}
